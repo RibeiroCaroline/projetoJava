@@ -24,6 +24,8 @@ public class ExemploSwitchCase {
 		case 3:
 			System.out.println("Música: AURORA - No Cure For Me.");
 			break;
+		default:
+			System.out.println("Opção inválida!");
 		}
 
 	}
